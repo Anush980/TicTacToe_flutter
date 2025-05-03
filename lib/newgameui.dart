@@ -53,7 +53,7 @@ class board extends StatelessWidget {
               ),
               child: Center(
                 child: Text(
-                  "$index",
+                  "O",
                   style: TextStyle(color: Colors.white, fontSize: 35),
                 ),
               ),
