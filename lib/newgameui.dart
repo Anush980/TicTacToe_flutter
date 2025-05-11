@@ -141,7 +141,11 @@ class board extends StatelessWidget {
               ),
               child: Center(
                 child: Text(
+<<<<<<< HEAD
                   boardState[index],
+=======
+                  "O",
+>>>>>>> 80b6b792af058ee6e006b1100c4440cd2ed12ea7
                   style: TextStyle(color: Colors.white, fontSize: 35),
                 ),
               ),
